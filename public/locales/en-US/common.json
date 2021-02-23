@@ -1,0 +1,9 @@
+{
+  "some": {
+    "key": {
+      "path": {
+        "welcome": "this is the welcome message!"
+      }
+    }
+  }
+}

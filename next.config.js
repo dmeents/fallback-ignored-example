@@ -1,6 +1,5 @@
+const i18n = require('./next-i18next.config');
+
 module.exports = {
-  i18n: {
-    defaultLocale: 'en-US',
-    locales: ['en-US', 'es-MX',],
-  },
+  i18n,
 }
